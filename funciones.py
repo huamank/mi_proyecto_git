@@ -6,3 +6,7 @@ def my_function_strng(x, y):
     result = x + y
 
     return result 
+
+def my_funct2():
+    return "Hola Mundo"
+
