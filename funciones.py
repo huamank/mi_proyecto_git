@@ -19,3 +19,6 @@ def my_funct4():
 
 def my_funct5():
     return "Hola Mundo"
+
+def my_funct6():
+    return "Hola Mundo"
