@@ -10,3 +10,7 @@ def my_function_strng(x, y):
 def my_funct2():
     return "Hola Mundo"
 
+
+def my_funct3():
+    return "Hola Mundo"
+
